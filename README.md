@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @romsha10
-- 👀 I’m interested in Software Engineering Roles
-- 🌱 I’m currently learning Android Development using Kotlin
-- 💞️ I’m looking to collaborate on Android Development Projects
+- 👀 I’m interested in Data Analyst Roles
+- 🌱 I’m currently various Data Analysis technologies such as Python and Power BI
+- 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 Connect with me via email - ahlawatromsha@gmail.com
 
 <!---
