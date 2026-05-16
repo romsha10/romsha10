@@ -43,21 +43,7 @@
 
 ## 📌 Featured Projects
 
-| Project | Description | Tools |
-|---|---|---|
-| 🔗 [Crypto Currency Data Analysis](https://github.com/romsha10/CryptoCurrencyDataAnalysis) | Interactive Power BI dashboard analysing crypto market trends | Power BI, DAX |
-| 🔗 [Academic Portfolio](https://github.com/romsha10/portfolio_academic_romsha) | MS-level data science coursework and projects | Python, SQL |
-| 🔗 Credit Risk Scorecard *(coming soon)* | Logistic regression model predicting loan default probability | Python, Scikit-learn, Power BI |
-| 🔗 Fraud Detection Model *(coming soon)* | Classification model for fraudulent transaction detection | Python, Scikit-learn, Pandas |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romsha10&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romsha10&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+Coming soon
 
 ---
 
